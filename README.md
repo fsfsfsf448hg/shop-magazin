@@ -1,0 +1,2 @@
+# shop-magazin
+1
